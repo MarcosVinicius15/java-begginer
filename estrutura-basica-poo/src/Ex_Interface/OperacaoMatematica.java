@@ -2,7 +2,9 @@ package Ex_Interface;
 
 interface OperacaoMatematica {
 
-    void somar(double valor1, double valor2);
+    void somar(
+
+    );
 
     void subtrair(double valor1, double valor2);
 
