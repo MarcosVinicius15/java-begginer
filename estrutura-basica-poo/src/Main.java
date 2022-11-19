@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Carro carro = new Carro("HB20", "Preto", 50);
 
+
         System.out.println("Modelo: " + carro.getModelo());
         System.out.println("Cor: " + carro.getCor());
         System.out.println("Capacidade do Tanque: " + carro.getCapacidadeTanque());
